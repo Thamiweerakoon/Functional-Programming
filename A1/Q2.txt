@@ -1,0 +1,5 @@
+1.Java is a object oriented language and scala is both object oriented and functional language.
+2.Scala is less readable and java is more readable.
+3.Scala variables are immutable by default and java variables are mutable by default.
+4.Scala not have static keyword and java have static keyword.
+5.Scala is not backward compatible and java is backward compatible.
